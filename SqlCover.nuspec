@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
-    <id>SqlCover</id>
+    <id>SqlCoverMS</id>
     <version>$version$</version>
-    <title>SqlCover</title>
+    <title>SqlCover MS</title>
     <authors>Ed Elliott</authors>
     <owners>Ed Elliott</owners>
     <licenseUrl>https://github.com/GoEddie/SQLCover/blob/master/LICENSE</licenseUrl>
